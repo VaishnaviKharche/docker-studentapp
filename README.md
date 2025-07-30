@@ -7,6 +7,7 @@ The project demonstrates how to containerize an application and run it efficient
 
 
 📚 What I Learned
+
 Creating Dockerfile from scratch
 
 Building custom Docker images for Java apps
